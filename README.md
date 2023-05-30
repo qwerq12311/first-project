@@ -1,3 +1,3 @@
 # first-project
 
-first commit
+first-project
